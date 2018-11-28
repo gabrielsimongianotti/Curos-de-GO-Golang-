@@ -1,2 +1,3 @@
 # Curos-de-GO-Golang-
-atividades do curso da alura: Curso de Go (Golang) link:https://www.udemy.com/cursodego/
+Atividades do curso da udemy: Curso de Go (Golang) 
+Link:https://www.udemy.com/cursodego/
